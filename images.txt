@@ -1,3 +1,4 @@
 nginx
 redis/redis-stack:latest
+kindest/node:v1.30.0
 #支持私库
